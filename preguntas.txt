@@ -1,0 +1,20 @@
+1. ¿Qué diferencia existe entre git add y git commit?
+El git add prepara los cambios mientras que git commit los añade al historial
+
+2. ¿Para qué sirve git status?
+Muestra el estado de los archivos y los cambios pendientes.
+
+3. ¿Qué información podemos obtener con git log?
+Es para ver si tenemos que hacer algún commit de algún proyecto o archivo
+
+4. ¿Qué muestra git diff?
+Muestra las diferencias entre los cambios realizados.
+
+5. ¿Qué ocurre si modificamos un archivo después de hacer un commit?
+El archivo queda modificado y debemos hacer otro commit para guardar el nuevo cambio.
+
+6. ¿Es Git lo mismo que GitHub? Explica la diferencia.
+No. Git controla las versiones y GitHub permite almacenar y compartir proyectos en internet.
+
+7. ¿Por qué es importante utilizar mensajes de commit descriptivos?
+Para saber fácilmente qué cambios se hicieron en cada commit.
