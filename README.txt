@@ -4,4 +4,6 @@ Módulo: Desarrollo de Interfaces Objetivo: aprender el ciclo básico de trabajo
 Repositorio remoto: GitHub 
 Este cambio se ha realizado desde una copia clonada
 Estado del proyecto: versión experimental  
-Estado del proyecto: versión principal y experimental 
+Estado del proyecto: versión principal y experimental
+Funcionalidades
+- Búsqueda de alumnos
